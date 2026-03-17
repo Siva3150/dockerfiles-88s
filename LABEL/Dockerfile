@@ -3,4 +3,4 @@ LABEL course="docker" \
       trainer="sivakumar" \
       author="info@joindevops.com"
 
-CMD ["sleep", "100"]
+CMD ["sleep", "1000"]
